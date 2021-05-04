@@ -1,0 +1,5 @@
+data_ready: false
+data_stream: CE01ISSP-SP001-06-NUTNRJ000-telemetered-nutnr_j_cspp_dark_instrument
+last_request: '2021-05-04T21:18:06.388818Z'
+response: https://raw.githubusercontent.com/ooi-data/CE01ISSP-SP001-06-NUTNRJ000-telemetered-nutnr_j_cspp_dark_instrument/main/history/response.json
+status: pending
