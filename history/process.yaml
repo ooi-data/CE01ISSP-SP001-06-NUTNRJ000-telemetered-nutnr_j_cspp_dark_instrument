@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSP-SP001-06-NUTNRJ000-telemetered-nutnr_j_cspp_dark_instrument
 data_stream: CE01ISSP-SP001-06-NUTNRJ000-telemetered-nutnr_j_cspp_dark_instrument
 end_date: '2014-05-14T07:00:05.826Z'
-last_updated: '2021-05-05T00:39:01.696216Z'
+last_updated: '2021-05-05T10:10:10.635341'
 start_date: '2014-04-18T17:05:17.601Z'
-status: pending
+status: success
